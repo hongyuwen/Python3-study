@@ -31,3 +31,7 @@ aa=0
 for x in range(101):
 	aa = aa + x
 print(aa)
+
+#dict字典实现
+d = {"aa":123,"bb":234}
+print(d["aa"])
