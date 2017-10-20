@@ -25,3 +25,9 @@ elif bmi >= 25 and bmi < 28:
 	print("过重")
 else:
 	print("no")
+
+#1+2+...+ 100
+aa=0
+for x in range(101):
+	aa = aa + x
+print(aa)
